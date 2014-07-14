@@ -7,16 +7,17 @@ A new buddy should join github and get access to the projects assigned, then con
 * Join Github at <https://github.com/join>, make sure to check the verification email in your mail box. 
 * Give the fresh `username` to your team lead, who will help to give the access to the ongoing project (usually a private repo). 
 
+ 
+## Git
+
+Git is the tool we use to manage all the source code, sometimes documents are even included, it is easier to be kept sync with the code base.
+
 ## Issues
 
-All the tasks, bug reports, feature enhancements could be an issue. Which is a thread to record everything including dicussion and decisions of a feature. Even though some features might become `invalid`, some bugs `wontfix` in the end, all those information worth to be recorded.
+All the tasks, bug reports, feature enhancements could be an issue. Which is a thread to record everything including dicussion and decisions of a feature. Even though some features might become `invalid`, some bugs become `wontfix` in the end, all those information worth to be recorded.
 
 ## Wiki
 
-Wiki is like the wikipedia for the project knowledge. It supports editing in a very efficient format, like `markdown` which we use all the time.  
-
-## Git
-
-Git is the tool we use to manage all the source code, sometimes documents are included which is easier to be kept sync with the code base.
+Wiki is like the wikipedia for the project knowledge. It supports editing in several very efficient formats, eg: `markdown` which we use the most.
 
 
